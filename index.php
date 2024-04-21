@@ -7,14 +7,7 @@
     <title>php-practice</title>
 </head>
 <body>
-<h1>This is heading 1</h1>
-    <?php
-    $first_name = "Riya";
-    $last_name= "thakur";
-    echo "$first_name"; echo " "; echo "$last_name";
-
-
-    ?>
+<h1>Welcome to php parctice page</h1>
     
 </body>
 </html>
