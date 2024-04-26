@@ -10,11 +10,13 @@ for ($i=0; $i <count($arr) ; $i++) {
 }
 
 
-/*foreach ($arr as $value) {
+foreach ($arr as $value) {
     echo"<br>";
     echo $value ;
     echo "<br> ";
 }
-*/
+
+
+
 
 ?>
